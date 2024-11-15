@@ -1,0 +1,26 @@
+.text-style{
+    opacity: 0.8;
+    font-weight: 500;
+}
+
+.text-style-two{
+    font-weight: 500;
+}
+
+.icon-img-size{
+   width: 48px;
+   height: 48px;
+}
+
+.icon-font-size{
+    font-size: 48px;
+}
+
+.footer-link-web {
+    text-decoration: none;
+    color: gray;
+}
+
+.footer-font-size{
+    font-size: 14px;
+}

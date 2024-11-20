@@ -24,3 +24,11 @@
 .footer-font-size{
     font-size: 14px;
 }
+
+.icon-size{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
